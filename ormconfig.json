@@ -1,0 +1,11 @@
+{
+  // "name": "mongo",
+  // "type": "mongodb",
+  // "host": "localhost",
+  // "port": 27017,
+  // "database": "rpg-chatroom",
+  // "useUnifiedTopology": true,
+  // "entities": [
+  //   "./src/database/schemas/*.ts"
+  // ]
+}
